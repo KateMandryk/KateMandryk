@@ -8,12 +8,8 @@
    <a href="https://t.me/Kate_mandrik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  </a>
-   <a href="https://t.me/Kate_mandrik">
-    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headHunter&logoColor=white" alt="HeadHunter Badge"/>
-  </a>
-</div> 
-
+  <img src="https://komarev.com/ghpvc/?username=your-github-KateMandryk&style=flat-square&color=blue" alt=""/>
+   </div>
 ### Hi there 👋
 My name is Kate.
 - 🌱 I’m currently learning java automation testing. 
