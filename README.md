@@ -8,6 +8,10 @@
    <a href="https://t.me/Kate_mandrik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  </a>
+   <a href="https://t.me/Kate_mandrik">
+    <img src="https://img.shields.io/badge/rabota.by-white?style=for-the-badge&logo=rabota.by&logoColor=white" alt="Rabota.by Badge"/>
+  </a>
 </div> 
 
 ### Hi there 👋
