@@ -1,17 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif"  width="100"/>
 </div>
-  <div id="badges"align="center">
+  <div id="badges">
   <a href="https://linkedin.com/in/kate-mandryk-aqa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://t.me/Kate_mandrik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href="https://t.me/Kate_mandrik">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  
   <img src="https://komarev.com/ghpvc/?username=your-github-KateMandryk&style=flat-square&color=blue" alt=""/>
    </div>
 ### Hi there 👋
