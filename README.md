@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif"  width="100"/>
 </div>
-  <div id="badges">
+  <div id="badges"align="center">
   <a href="https://linkedin.com/in/kate-mandryk-aqa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,6 +10,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-KateMandryk&style=flat-square&color=blue" alt=""/>
    </div>
+   
+   
 ### Hi there 👋
 My name is Kate.
 - 🌱 I’m currently learning java automation testing. 
