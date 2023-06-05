@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
     
-  <img src="https://komarev.com/ghpvc/?username=your-github-KateMandryk&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-KateMandryk&style=flat-square&color=blue" alt="center"/>
    </div>
 ### Hi there 👋
 My name is Kate.
