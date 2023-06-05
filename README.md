@@ -17,5 +17,6 @@
    </div>
    
 My name is Kate.
+### :woman_technologist: About Me :  
 - 🌱 I’m currently learning java automation testing. 
 - 
