@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :  
 - 🦋 My name is Kate. I'm QA Automation Engineer Java. 
-- 🍀 I’m currently learning java automation testing. 
+- 🍀 I am currently learning test automation with Java programming language. 
 - 🌱 I have expertise in the following automation types: web UI, API, databases.
 ---
 
