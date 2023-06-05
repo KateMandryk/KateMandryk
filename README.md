@@ -15,11 +15,11 @@
   Hi there 👋
 </h1>
    </div>  
-   
-My name is Kate.
 
 ### :woman_technologist: About Me :  
-- 🌱 I’m currently learning java automation testing. 
+- 🦋 My name is Kate. I'm QA Automation Engineer Java. 
+- 🍀 I’m currently learning java automation testing. 
+- 🌱 I have expertise in the following automation types: web UI, API, databases.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
