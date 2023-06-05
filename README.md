@@ -10,7 +10,7 @@
   </a>
   </a>
    <a href="https://t.me/Kate_mandrik">
-    <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headHunter&logoColor=white" alt="HeadHunter Badge"/>
   </a>
 </div> 
 
